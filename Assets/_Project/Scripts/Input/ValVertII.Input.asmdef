@@ -1,16 +1,17 @@
 {
-    "name": "NewAssembly",
-    "rootNamespace": "",
-    "references": [
-        "GUID:e4410d4375c032c42880e01661149c8e"
-    ],
-    "includePlatforms": [],
-    "excludePlatforms": [],
-    "allowUnsafeCode": false,
-    "overrideReferences": false,
-    "precompiledReferences": [],
-    "autoReferenced": true,
-    "defineConstraints": [],
-    "versionDefines": [],
-    "noEngineReferences": false
+  "name": "ValVertII.Input",
+  "rootNamespace": "ValVertII.Input",
+  "references": [
+    "ValVertII.Core",
+    "Unity.InputSystem"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
 }
